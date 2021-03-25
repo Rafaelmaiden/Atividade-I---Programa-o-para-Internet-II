@@ -1,0 +1,11 @@
+{
+  "name": "teste1",
+  "version": "1.0.0",
+  "description": "Atividade I - Programção para Internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MR-Ramos",
+  "license": "ISC"
+}
